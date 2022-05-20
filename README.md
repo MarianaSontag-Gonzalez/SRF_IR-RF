@@ -1,4 +1,4 @@
-Code and data to run spectral sensitivity correction of luminescence
+Code and data to run wavelength calibration and spectral sensitivity correction of luminescence
 measurements for dosimetry applications tested on the IR-RF of
 K-feldspar
 ================
@@ -10,8 +10,7 @@ Sebastian Kreutzer<sup>3,4</sup>, Markus Fuchs<sup>1</sup>
 
 1.  Department of Geography, Justus Liebig University, Giessen, Germany
 2.  Independent Researcher, Zschertnitzer Weg 16, 01217 Dresden, Germany
-3.  Geography & Earth Sciences, Aberystwyth University, Wales, United
-    Kingdom
+3.  Insitute of Geography, Heidelberg University, 69120 Heidelberg, Germany
 4.  Archéosciences Bordeaux, UMR 6034, CNRS - Université Bordeaux
     Montaigne, 33607 Pessac Cedex, France
 
